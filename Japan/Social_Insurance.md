@@ -23,9 +23,12 @@ You have a few options:
 
 - Subscribe to the NHI.  
 - If you just left your company you can stay on your previous company health insurance for the next 2 years (it's usually cheaper so it's recommended). This process is called 任意継続保険制度.  
-- Join National Health Insurance Association (国民健康保険組合). This is usually cheaper than NHI (around 2 mans). But you have to check the conditions as I'm not sure every type of job is accepted. You can check their [beautiful green website that looks like it's from the 80s](http://www.bunbi.com/).
-- Any other insurance union, for instance:  
+- Join National Health Insurance Association (国民健康保険組合) https://www.kyoukaikenpo.or.jp/.  
+This is usually cheaper than NHI (around 2 mans). But you have to check the conditions as there are requirements for each insurance union. 
+A non exhaustive list of these kenpo hokens:  
+    - [文芸美術国民健康保険組合 / beautiful green website that looks like it's from the 80s](http://www.bunbi.com/).
     - [関東ITソフトウェア健康保険組合](https://www.its-kenpo.or.jp/)
+    - [全国健康保険協会](https://www.kyoukaikenpo.or.jp/)
     - [関東信越税理士国民健康保険組合](http://www.ka-z-kokuho.or.jp/)
     - [全国土木建築国民健康保険組合](http://dokenpo.or.jp/index.php)
     - [東京食品販売国民健康保険組合](https://www.toshoku-kokuho.or.jp/)
