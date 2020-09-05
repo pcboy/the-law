@@ -14,11 +14,11 @@ If you don't care about knowing how things work and just want to be done with it
 
 First you need to send the notice of opening of your business (個人事業の開廃業等届出書).  
 It's a simple form you simply have to send and you are done. You also need to send another form telling the tax office that you'll fill the Blue form tax declaration this year.  
-There are 2 types of tax declaration, the white form and the blue form. The white form is super easy and anyone can do that one without sending any document prior to the tax office.  
+There are 2 types of final tax return declaration, the white form and the blue form. The white form is super easy and anyone can do that one without sending any document prior to the tax office.  
 But as a freelancer you should file the blue one, because it has better tax reducing schemes.  
 
-I'm not going to explain how to fill it, and you don't even have to understand fully how to either.  
-Just use [freee.co.jp](free.co.jp). It's a tax accounting SAAS. They have a step-by-step process to fill that form and it's super easy. And at the end you just have to print it and send it. Just do that.  
+I'm not going to explain how to the 個人事業の開廃業等届出書 form, and you don't even have to understand fully how to either.  
+Just use [freee.co.jp](free.co.jp). It's a tax accounting SAAS. They have a step-by-step process to fill that form and it's super easy. And at the end you just have to print it and send it. They also prepare for you the form telling the tax office that you'll fill the blue form this year.  
 
 Then create your kojin jigyo account on freee.  
 
@@ -32,23 +32,24 @@ As soon as your get these, add them to freee, so they stay in sync from the begi
 # Bookkeeping
 
 ## How do I charge for my labor with freee?  
-  Freee has an invoicing system, use it, everything is automatically handled by freee afterwards. Simply create a new invoice. Don't forget to add the VAT to your invoices. The VAT should be paid by the customer. And you have to be careful not to use that money as you have to give it back to the government later.
+  Freee has an invoicing system, use it, everything is automatically handled by freee afterwards. Simply create a new invoice. Don't forget to add the VAT to your invoices. The VAT should be paid by the customer, don't trust anyone telling you the opposite, they are trying to pay you less than they should.  
+And you have to be careful not to use that VAT money as you have to give it back to the government later.
 
 ## What are accounts? (勘定科目)  
-  This is used to determine what is the type of the entry you are putting in the book. All entries in your book need a specific account to be used. freee already helps you by having a long list of different accounts you can use. This is a whole new can of worms though, check [Accounts](#accounts--勘定科目) section to learn more.
+  This is used to determine what is the type of the income/expense you are putting in the book (e.g, travel expense? Meeting Fee?). All entries in your book need to refer to a specific "account" . freee already helps you by having a long list of different accounts you can use. This is a whole new can of worms though, check [Accounts](#accounts--勘定科目) section to learn more.
 
 ## 事業主貸 vs 事業主借  
   This one is super important. These are 2 types of "accounts" (勘定科目) you can use in your books.  
   - 事業主貸 is used when you want to TAKE money from the company business account.  
     For instance when you pay yourself at the end of the month, this is what you should use.
-  - 事業主借 is used when you GIVE money from your personal money (can even be cash) to your business.
+  - 事業主借 is used when you GIVE money from your personal money (can even be cash, source doesn't matter) to your business.
 
 ## How can I pay myself every month?  
   Every month you'll receive your money on your business account. But as a sole proprietorship you don't really have a "salary" per se. But you still want to get that money back on your personal bank account right?  
   Here is how it works.  
   Do NOT sync your personal bank account on freee. That will make everything more complicated.  
   First do the bank transfer from your business account to your personal one.  
-  Then, let freee sync so the new transaction appears.   
+  Then, let freee sync your business bank account so the new transaction appears.   
   All you have to do is now to register this as an expense with 事業主貸 as account type, 対象外 (out of scope) as tax rate (because there is no VAT involved), you can put living expenses (生活費) as item name to help find these "salary" transactions easily. It should basically look like that:  
 
   <img src="./assets/freee_salary.png">
@@ -64,24 +65,24 @@ As soon as your get these, add them to freee, so they stay in sync from the begi
 
 ## What if I buy something online in any other currency than JPY?  
   This one is super complex, because the change rate matters, and the VAT too.  
-  You can in theory register earnings / loss with change rate etc.  
+  You can in theory register earnings / loss with change rate etc. But that's extremely complicated and I doubt you'll gain anything.  
   To make it simple, here is what I do:
   - I create a new expense and set the tax rate at "out of scope" (対象外).
   - I set the amount in yens by looking at what my credit card charged. They should show you what was the rate being used.
-  - I put the rate in the "remarks" field so that it looks like `PRODUCT / 21.43 USD @ 108.8194円`
+  - I put the rate in the "remarks" field so that it looks like:`PRODUCT / 21.43 USD @ 108.8194円`
   
   Yes the change rate on my credit card statement is incredibly precise, 4 decimals.
 
 ## How do I record in the book an expense paid by private funds?
   Let's say you buy a phone for 5 mans with your personal credit card. Nothing will magically appear on freee. So you have to manually enter that transaction.  
-  This one is pretty simple. Just create a new entry, set it as expense (支出), then set the 口座 as "Private funds" (プライベート資金), and finish the expense details as usual. By doing this freee is automatically doing the whole thing of setting this up as you were giving money to the company etc (事業主借). It's all done for you. So feel free to use that private fund option anytime.
+  This one is pretty simple. Just create a new entry, set it as expense (支出), then set the 口座 as "Private funds" (プライベート資金), and finish the expense details as usual. By doing this freee is automatically doing the whole thing of setting this up as you were giving money to the company etc (事業主借). It's all done for you. So feel free to use that private fund option anytime you forget to use the business credit card or use cash.  
 
 
 # Accounts / 勘定科目
 
-What are accounts? They are simply used to determine the tax category of everything you put in the book, so that the tax man can apply the government taxes framework easily and catch inconsistencies.  
-So it's pretty important to not make mistakes here. You want to choose the correct account for your everything you enter on freee.  
-The most common you are gonna use are listed below.  
+What are accounts? They are simply used to determine the tax category of everything you put in the book, so that the taxman can apply the government taxes framework easily and catch inconsistencies.  
+So it's pretty important to not make mistakes here. You want to choose the correct account for your everything you enter on freee. But at the same time it's not always clear cut which one you should choose and multiple accounts can be valid. It's only important to stay consistent. Don't declare multiple times the same thing with different accounts.  
+The most common accounts you are gonna use are listed below.  
 
 ## Meeting Fee / Entertainment Fee (会議費 / 交際費)
 These are 2 separate distinct accounts. But they can be confusing because they are used in similar ways.  
@@ -162,7 +163,7 @@ Sources:  [Depreciable assets on freee](https://advisors-freee.jp/article/catego
 旅費交通費 will be used for a flight ticket for instance. Or to pay for your hotel during a trip, but that also works for a taxi.    
 
 The reason for the travel matters for choosing the proper account which makes it very complex.  
-A same taxi fee can be a travel expense, a transportation expense, or an entertainment expense depending on the reason for taking that taxi.  
+A same taxi fee can be a travel expense, a training expense, or an entertainment expense depending on the reason for taking that taxi.  
 If you go to a remote area for training for instance, your shinkansen expense should be registered with the Training account (研修費) instead.
 
 ## Miscellaneous expenses (雑費等)
