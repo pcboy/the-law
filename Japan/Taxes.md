@@ -166,6 +166,15 @@ The reason for the travel matters for choosing the proper account which makes it
 A same taxi fee can be a travel expense, a training expense, or an entertainment expense depending on the reason for taking that taxi.  
 If you go to a remote area for training for instance, your shinkansen expense should be registered with the Training account (研修費) instead.
 
+If you travel (like an actual business trip, can be domestic), the accomodation and the transportation should use this account.  
+Careful, you can't expense your lunch/dinners at the destination, unless of course these are business related. It seems though they should be expensed as Meeting fee or entertainment fee depending on the situation instead of travel expenses.  
+If you happen to have breakfast included in your hotel, then it's fine to expense it in the travel expenses!  
+Travel expenses are VAT taxed if domestic, and VAT-free if done abroad as usual.
+
+Note: If you take the shinkansen, the green seats charges can't be expensed, unless there is a good business reason for you to ride 1st class.
+
+Sources: https://meetsmore.com/services/tax-return-accountant/media/48099#i-3
+
 ## Miscellaneous expenses (雑費等)
 This one is a "misc", I recommend not using it unless really necessary because that attracts attention.
 
