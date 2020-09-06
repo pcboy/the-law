@@ -114,8 +114,9 @@ The VAT is applied for goods, but if you buy a gift certificate, coupons, condol
 Source: https://ashiyakaikei.com/consumption-tax-gift-certificates/
 
 There is no clear limit for the price of the gifts. It's again mentioned to use "common sense" (whatever that means). It seems it's common to have gifs around 10,000 yens, and flowers around 5000 yens.  
-You can also use buy souvenirs while you travel that you can give to a business partner/customer and mark is as a gift.  
-They also mention New Year gifts and Congratulatory gifts as something that can be expensed for partners/customers.  
+Never go over 50,000 yens. Generally it looks like the taxman is looking closely at these gifts because there is a lot of fraud involved. The gift certificates, gift cards, are also not particularly recommended.    
+You can also use buy souvenirs while you travel that you can give to a business partner/customer and mark is as a gift (but not for friends/relatives).  
+They also mention New Year gifts and Congratulatory gifts as something that can be expensed for partners/customers (not for friends/relatives).  
 Source: https://wtw-con.co.jp/articles784
 
 Note:  
