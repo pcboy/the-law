@@ -110,7 +110,7 @@ Another way:
 ```
 
 As mentioned before, the entertainment fee also applies to gifts. You can simply expense something you will use as a gift to "bribe" a future business partner.  
-The VAT is applied for goods, but if you buy a gift certificate, flight tickets, condolence money etc, then it should be entered as VAT-free in the books.
+The VAT is applied for goods, but if you buy a gift certificate, coupons, condolence money etc, then it should be entered as VAT-free in the books.
 Source: https://ashiyakaikei.com/consumption-tax-gift-certificates/
 
 Note:  
