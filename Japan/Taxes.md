@@ -50,7 +50,7 @@ And you have to be careful not to use that VAT money as you have to give it back
   Do NOT sync your personal bank account on freee. That will make everything more complicated.  
   First do the bank transfer from your business account to your personal one.  
   Then, let freee sync your business bank account so the new transaction appears.   
-  All you have to do is now to register this as an expense with 事業主貸 as account type, 対象外 (out of scope) as tax rate (because there is no VAT involved), you can put living expenses (生活費) as item name to help find these "salary" transactions easily. It should basically look like that:  
+  All you have to do is now to register this as an expense with 事業主貸 as account type, 対象外 (out of scope) as tax rate (because there is no tax involved), you can put living expenses (生活費) as item name to help find these "salary" transactions easily. It should basically look like that:  
 
   <img src="./assets/freee_salary.png">
 
@@ -67,7 +67,7 @@ And you have to be careful not to use that VAT money as you have to give it back
   This one is super complex, because the change rate matters, and the VAT too.  
   You can in theory register earnings / loss with change rate etc. But that's extremely complicated and I doubt you'll gain anything.  
   To make it simple, here is what I do:
-  - I create a new expense and set the tax rate at "out of scope" (対象外).
+  - I create a new expense and set the tax rate at "tax free" (不課税).
   - I set the amount in yens by looking at what my credit card charged. They should show you what was the rate being used.
   - I put the rate in the "remarks" field so that it looks like:`PRODUCT / 21.43 USD @ 108.8194円`
   
