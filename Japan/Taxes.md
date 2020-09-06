@@ -109,6 +109,10 @@ Another way:
 関係：得意先、○○会社、△△部、□□□□さん（フルネーム）　以下２名
 ```
 
+As mentioned before, the entertainment fee also applies to gifts. You can simply expense something you will use as a gift to "bribe" a future business partner.  
+The VAT is applied for goods, but if you buy a gift certificate, flight tickets, condolence money etc, then it should be entered as VAT-free in the books.
+Source: https://ashiyakaikei.com/consumption-tax-gift-certificates/
+
 Note:  
 > According to the data in 2017, for example, in the case of a company with a sales of 10 million yen to 30 million yen in the construction industry, 1.8% of the sales is the average value of entertainment expenses.
 
