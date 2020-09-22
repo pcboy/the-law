@@ -1,4 +1,4 @@
-# Drugs laws
+# Drug laws
 
 ## Speaking positively about marijuana online leads to arrest of Japanese man and woman
 
