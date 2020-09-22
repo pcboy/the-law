@@ -33,6 +33,8 @@ Sources:
 
 - [Social Insurance](./Japan/Social_Insurance.md)  
 
+- [Drug Laws](./Japan/Drug_Laws.md)
+
 ## French laws
 - [Office Laws](./France/Office.md)
 
