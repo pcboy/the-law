@@ -37,14 +37,18 @@ Oct 26, 2016
 </blockquote>
 
 I have no idea why such a basic and extremely safe supplement was banned in Japan.  
-The Pharmaceutical Affairs Law says you can import one-month supply for personal use. One month supply meaning absolutely nothing as it depends how much you take a day, basically never import more than one bottle.  
-If you import 2 bottles you will get a love letter like this one:  
+The Pharmaceutical Affairs Law says you can import two-month supply for personal use. Two months supply meaning absolutely nothing as it depends how much you take a day, basically never import more than one bottle. Even if the bottle is 100 pills and the serving size is 1 a day, then you'll be in the wrong.  
+If you import 2 bottles of 100 tablets you will get a love letter like this one:  
 
 <a href="./assets/love_letter_2.jpg"><img src="./assets/love_letter_2.jpg"></a>
 
 <a href="./assets/love_letter_1.jpg"><img src="./assets/love_letter_1.jpg"></a>
 
 Yes, Insanity.  
+
+Sources:  
+https://www.mhlw.go.jp/topics/0104/tp0401-1.html  
+https://opas.com/faq/japan-restricted-commodities/  
 
 The funniest thing is that L-Tryptophane is perfectly legal to sell in Japan, and it's a precursor of Melatonin.  
 Interestingly, Japan was producing pretty terrible L-Tryptophan in the past which caused 37 deaths.  
