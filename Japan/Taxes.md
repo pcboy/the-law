@@ -209,6 +209,17 @@ This is only valid for:
 
   Note: Be sure not to have more than 50% of the floor area allocated for work, if you do, you'll lose your home loan tax deduction.
 
+## I'm paying for both my dependents' pension and my own. Can I deduct it?
+
+  Yes you can. You need to attach proof of payment when filling your tax return.  
+  You shouldn't register each payment as expense directly in free (unless you are using the business account, but then you have to use the 事業主貸 account as you are taking money from the company for personal use), as it's not a business expense.  
+  When you prepare your documents with free at tax return time there is a special form to add your pension payments. That's all you need to do.
+  
+  Sources:
+  [Freee Fill in the details of the social insurance deduction](https://support.freee.co.jp/hc/ja/articles/203832694-%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%BA%E6%96%99%E6%8E%A7%E9%99%A4%E3%81%AE%E5%86%85%E5%AE%B9%E3%82%92%E8%A8%98%E5%85%A5%E3%81%99%E3%82%8B)  
+  https://www.sumoviva.jp/trend-tips/20150820_358.html
+
+
 
 Sources:  
 [Freee nice page about accounts](https://support.freee.co.jp/hc/ja/articles/212496366-%E5%8B%98%E5%AE%9A%E7%A7%91%E7%9B%AE%E3%81%AF%E3%81%A9%E3%81%86%E9%81%B8%E3%81%B9%E3%81%B0%E3%82%88%E3%81%84-)  
