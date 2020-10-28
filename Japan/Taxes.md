@@ -89,7 +89,8 @@ These are 2 separate distinct accounts. But they can be confusing because they a
 
 ### Meeting Fee
 The Meeting fee is used when you want to expense a business lunch/dinner with someone, it needs to be a meeting related to work. You are discussing work etc. 
-A basic rule is that it's usually under 5000 yens per person. But don't focus too much on the actual price as it's not really what matters, what matters is the _reason_ for the gathering. You can expense something as a meeting fee even if it costs more than 5000 yens / person if it's really for a meeting. It's just that _usually_ entertainment fee expenses tend to go higher.
+A basic rule is that it's usually under 5000 yens per person. But don't focus too much on the actual price as it's not really what matters, what matters is the _reason_ for the gathering. You can expense something as a meeting fee even if it costs more than 5000 yens / person if it's really for a meeting. It's just that _usually_ entertainment fee expenses tend to go higher.　　
+You can have a meeting with yourself. That happens when you are working from a café basically. So that's the account you should use when you have an americano at starbucks.  
 
 ### Entertainment Fee
 The Entertainment fee is different, it's to entertain, it's not really about work per se. It's pretty close to a bribe actually but that's accepted. You can use it for gifts to someone you think will bring you business, you can use it for big dinners with someone you think will bring you business, it even works with a friend, the only condition is that you entertain him because you think he's able to bring you contacts/business in the future.  
