@@ -37,8 +37,8 @@ Oct 26, 2016
 </blockquote>
 
 I have no idea why such a basic and extremely safe supplement was banned in Japan (at least OTC, you can get it with a prescription it seems).  
-The Pharmaceutical Affairs Law says you can import one-month supply for personal use only as Melatonine is a prescription medicine. One month supply means if the service size is 1 pill, then it's 30 pills max.  
-That means 30 pills of 3mg (total 90mg of melatonine) is OK. But 100 pills of 300 mcg, so 30mg, is NOT OK. They are inciting people to take stronger stuff here.  
+The Pharmaceutical Affairs Law says you can import one-month supply for personal use only as Melatonine is a prescription medicine. One month supply means if the serving size is 1 pill, then it's 30 pills max.  
+That means 30 pills of 3mg (total 90mg of melatonin) is OK. But 100 pills of 300 mcg, so 30mg, is NOT OK. They are inciting people to take stronger stuff here.  
 If you import too much you will get a love letter like this one:  
 
 <a href="./assets/love_letter_2.jpg"><img src="./assets/love_letter_2.jpg"></a>
