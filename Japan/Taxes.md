@@ -200,12 +200,17 @@ This is only valid for:
     - Car tax (自動車税)  
     - Membership fees and union fees (会費・組合費など)  
 
+## Which tax category should I choose when I'm working for a foreign company?
+  Foreign sales are VAT-free so you can use "external sales" (対外売上) or "Not applicable" (対象外).
+
+  Source: [free](https://support.freee.co.jp/hc/ja/articles/202848290-3-%E7%A8%8E%E5%8C%BA%E5%88%86%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%A8%E9%81%B8%E3%81%B3%E6%96%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+
 ## I have a mortgage and pay property taxes. How to expense it?  
   It's easy, first you have to set up the housework allocation for that property tax in freee.  
   Create a new item 固定資産税 and set the % on the [Freee housework allocation setup page](https://secure.freee.co.jp/biz_allocations).  
   To calculate it, take your floor plan, and do working area in sqm / total floor plan sqm.  
   Note that you can include your working area AND your kitchen. I also heard you can include the toilets but that seemmed to be of a grey area so don't take my word for it.  
-  Then each time you pay your property taxes you register these as expenses and  put 固定資産税 as item and comments so that it's clear what it is.  
+  Then each time you pay your property taxes you register these as expenses and put 固定資産税 as item and comments so that it's clear what it is.  
   Freee will do the calculation with the housework allocation % at the end of the year.  
 
   Note: Be sure not to have more than 50% of the floor area allocated for work, if you do, you'll lose your home loan tax deduction.
@@ -220,6 +225,15 @@ This is only valid for:
   [Freee Fill in the details of the social insurance deduction](https://support.freee.co.jp/hc/ja/articles/203832694-%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%BA%E6%96%99%E6%8E%A7%E9%99%A4%E3%81%AE%E5%86%85%E5%AE%B9%E3%82%92%E8%A8%98%E5%85%A5%E3%81%99%E3%82%8B)  
   https://www.sumoviva.jp/trend-tips/20150820_358.html
 
+
+## How can I expense my mortgage interest if I'm working from home?  
+
+  If you are working from home you can indeed expense part of your mortgage interest rate. You should definitely do it as it's quite a good amount of money saved.  
+  Your bank must be sending you regularly a document with the next payment amounts and how much interest is included. Get that paper and then you can simply add an expense in freee, use the account "Interest Expense" (支払利息) and I recommend to create an associated item `住宅ローンの利子の支払い`, Tax rate should be marked as Not applicable (対象外).  
+  Then go to the [Housework apportionment page / 家事按分一覧](https://secure.freee.co.jp/biz_allocations), and register a new housework apportionment for the account `対象外` with item name `住宅ローンの利子の支払い`. Set the percentage of your home you are using for business and you are set.
+
+  Sources:  
+  https://freelance.kantan-aoiro.net/faq/faq04_05.html
 
 
 Sources:  
