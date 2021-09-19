@@ -200,6 +200,13 @@ This is only valid for:
     - Car tax (自動車税)  
     - Membership fees and union fees (会費・組合費など)  
 
+
+## Rental Fee (賃借料)
+
+  This one can be used for any renting of office space (that can include your home with the proper apportionment), renting a private room, etc.
+
+  source: https://www.aifuji.com/blog/849/
+
 ## Which tax category should I choose when I'm working for a foreign company?
   Foreign sales are VAT-free so you can use "external sales" (対外売上) or "Not applicable" (対象外).
 
@@ -236,6 +243,38 @@ This is only valid for:
   https://freelance.kantan-aoiro.net/faq/faq04_05.html
 
 
+## Overseas spending
+  Use your business credit card as much as possible, it makes it easier because the foreign currency -> JPY rate will be chosen for you.  
+  That also serves as proof of payment as it may be difficult to get receipts abroad in english.  
+  If you can't use your credit card, you'll have to make the conversion yourself. There is no clear rule it seems (source https://ps.icedog-works.com/overseas-spending/), it just need to make sense. So taking the rate at the day of payment sounds logical to me, but the average rate for the month can be okay too they say.  
+
+## Expenses ratio
+  If your expenses ratio goes over 60% and you are a software engineer you'll get audited.  
+  Some average expense ratios:
+
+  ```
+  ・Wholesale business… 90%
+  ・Retail business: 80%
+  ・Manufacturing...70%
+  ・Restaurant...60%
+  ・Service industry: 50%
+  ```
+
+  Source:
+  https://mamaworks.jp/column/?p=6330
+
+
+
 Sources:  
 [Freee nice page about accounts](https://support.freee.co.jp/hc/ja/articles/212496366-%E5%8B%98%E5%AE%9A%E7%A7%91%E7%9B%AE%E3%81%AF%E3%81%A9%E3%81%86%E9%81%B8%E3%81%B9%E3%81%B0%E3%82%88%E3%81%84-)  
 [Taxes payments accounts](https://meetsmore.com/services/tax-accountant/media/53493#i)
+
+
+
+
+# Useful links for freelancers
+
+If you need a travel insurance:  
+https://safetywing.com/nomad-health
+
+
