@@ -220,7 +220,7 @@ This is only valid for:
   Then each time you pay your property taxes you register these as expenses and put 固定資産税 as item and comments so that it's clear what it is.  
   Freee will do the calculation with the housework allocation % at the end of the year.  
 
-  Note: Be sure not to have more than 50% of the floor area allocated for work, if you do, you'll lose your home loan tax deduction.
+  Note: There is a catch. Be sure not to have more than 50% of the floor area allocated for work, if you do, you'll lose your 1% home loan tax deduction. If you set it higher than 10%, then you have to remove the proportion allocated to your work area from your home loan tax deducation. As you can imagine it gets complicated. So it's better to not go higher than 10%.
 
 ## I'm paying for both my dependents' pension and my own. Can I deduct it?
 
