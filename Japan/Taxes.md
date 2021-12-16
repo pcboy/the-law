@@ -33,7 +33,7 @@ As soon as your get these, add them to freee, so they stay in sync from the begi
 
 ## How do I charge for my labor with freee?  
   Freee has an invoicing system, use it, everything is automatically handled by freee afterwards. Simply create a new invoice. Don't forget to add the VAT to your invoices. The VAT should be paid by the customer, don't trust anyone telling you the opposite, they are trying to pay you less than they should.  
-And you have to be careful not to use that VAT money as you have to give it back to the government later.
+And you have to be careful not to use that VAT money as you have to give it back to the government later. There is a trick though, at the beginning, if your base period (last 2 years) sales are less than 10M yens, you don't have to give it back. If your base period (last 2 years) is > 10M sales, then your business is now a VAT taxable business, and you'll have to give back the VAT of the year after that base period and file VAT tax return forms (in counterparty you'll be refunded from VAT on everything you mark as expense).  
 
 ## What are accounts? (勘定科目)  
   This is used to determine what is the type of the income/expense you are putting in the book (e.g, travel expense? Meeting Fee?). All entries in your book need to refer to a specific "account" . freee already helps you by having a long list of different accounts you can use. This is a whole new can of worms though, check [Accounts](#accounts--勘定科目) section to learn more.
