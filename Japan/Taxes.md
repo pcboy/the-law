@@ -224,7 +224,7 @@ This is only valid for:
 
 ## I'm paying for both my dependents' pension and my own. Can I deduct it?
 
-  Yes you can. You need to attach proof of payment when filling your tax return.  
+  Yes you can. You need to attach proof of payment when filling your tax return (unless you are using e-tax).  
   You shouldn't register each payment as expense directly in free (unless you are using the business account, but then you have to use the 事業主貸 account as you are taking money from the company for personal use), as it's not a business expense.  
   When you prepare your documents with free at tax return time there is a special form to add your pension payments. That's all you need to do.
   
