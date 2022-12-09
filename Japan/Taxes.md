@@ -187,7 +187,13 @@ https://www.keisan.nta.go.jp/h30yokuaru/aoiroshinkoku/hitsuyokeihi/genkashokyaku
 
 A personal computer for instance is 4 years.
 
+For some assets, up to 30 mans, you can register as a depreciable asset with 少額償却 (small depreciation). Which let you depreciate the entire amount in the current year (up to 3M/year). If you can, you should do that.
+
+For instance if you buy an office chair for 20 mans. You have to register the transaction first in your ledger, with 工具器具備品 as account. Then you add it to your fixed asset register, with 少額償却 as depreciation method.
+
 Sources: [Depreciable assets on freee](https://advisors-freee.jp/article/category/cat-big-03/cat-small-08/6906/)
+
+https://support.freee.co.jp/hc/ja/articles/360000492206-%E5%9B%BA%E5%AE%9A%E8%B3%87%E7%94%A3%E3%81%AE%E5%84%9F%E5%8D%B4%E6%96%B9%E6%B3%95
 
 ## Travel Expenses (旅費交通費)
 
@@ -214,13 +220,14 @@ This one is a "misc", I recommend not using it unless really necessary because t
 
 This one is used when you want to put some tax payments as expense.  
 Warning, that is not valid with most tax payments (like, don't put your juminzei for instance, that's not a business expense).  
-This is only valid for:  
- - property taxes  
- - revenue stamps  
- - Registration license tax (登録免許税)  
- - Real estate acquisition tax (不動産取得税)  
- - Car tax (自動車税)  
- - Membership fees and union fees (会費・組合費など)
+This is only valid for:
+
+- property taxes
+- revenue stamps
+- Registration license tax (登録免許税)
+- Real estate acquisition tax (不動産取得税)
+- Car tax (自動車税)
+- Membership fees and union fees (会費・組合費など)
 
 ## Rental Fee (賃借料)
 
