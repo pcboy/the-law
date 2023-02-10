@@ -307,6 +307,18 @@ General Sources:
 [Freee nice page about accounts](https://support.freee.co.jp/hc/ja/articles/212496366-%E5%8B%98%E5%AE%9A%E7%A7%91%E7%9B%AE%E3%81%AF%E3%81%A9%E3%81%86%E9%81%B8%E3%81%B9%E3%81%B0%E3%82%88%E3%81%84-)  
 [Taxes payments accounts](https://meetsmore.com/services/tax-accountant/media/53493#i)
 
+
+## How much can I donate to Furusato Nozei?  
+
+The calculation details are [here](https://old.reddit.com/r/JapanFinance/comments/zgr11k/guide_to_furusato_nozei_donation_limits/).  
+
+taxable income x 0.02 / (90% - marginal income tax rate) = furusato max amount
+
+The margin income tax rate being 33% if your taxable income is between 9M and 18M, just do the math to get the maximum you can spend in furusato nozei donations.  
+In order to compute my taxable income perfectly I usually wait to be in the last month of the year, pre-fill my tax return form on freee, and it will show you the taxable income amount.  
+I recommend [Rakuten Furusato](https://event.rakuten.co.jp/furusato) for doing furusato donations as you get many rakuten points easily with it.
+
+
 # Useful links for freelancers
 
 If you need a travel insurance:  
