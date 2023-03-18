@@ -322,4 +322,4 @@ I recommend [Rakuten Furusato](https://event.rakuten.co.jp/furusato) for doing f
 # Useful links for freelancers
 
 If you need a travel insurance:  
-https://safetywing.com/nomad-health
+https://safetywing.com/
