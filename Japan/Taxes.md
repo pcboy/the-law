@@ -264,9 +264,11 @@ Sources:
 
 ## How can I expense my mortgage interest if I'm working from home?
 
-If you are working from home you can indeed expense part of your mortgage interest rate. You should definitely do it as it's quite a good amount of money saved.  
+If you are working from home you can indeed expense part of your mortgage interest. You should definitely do it as it's quite a good amount of money saved.  
  Your bank must be sending you regularly a document with the next payment amounts and how much interest is included. Get that paper and then you can simply add an expense in freee, use the account "Interest Expense" (支払利息) and I recommend creating an associated item `住宅ローンの利子の支払い`, Tax rate should be marked as Not applicable (対象外) and the source should be "private funds" (プライベート資金) (unless you are paying this interest directly with your business account which seems wrong).  
  Then go to the [Housework apportionment page / 家事按分一覧](https://secure.freee.co.jp/biz_allocations), and register a new housework apportionment for the account `支払利息` with item name `住宅ローンの利子の支払い`. Set the percentage of your home you are using for business and you are set.
+
+ NOTE: If you are doing the 1% home loan tax deduction, I believe you should not be doing this. At the moment getting conflicting answers from accountants.
 
 Sources:  
  https://freelance.kantan-aoiro.net/faq/faq04_05.html
