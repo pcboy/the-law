@@ -320,6 +320,10 @@ The margin income tax rate being 33% if your taxable income is between 9M and 18
 In order to compute my taxable income perfectly I usually wait to be in the last month of the year, pre-fill my tax return form on freee, and it will show you the taxable income amount.  
 I recommend [Rakuten Furusato](https://event.rakuten.co.jp/furusato) for doing furusato donations as you get many rakuten points easily with it.
 
+Example of calculation for a 10M taxable income:
+
+10000000 * 0.02 / ((90 - 33) / 100.0) = 35 0877 yens limit
+
 ## Misc
 
 [Interesting Article](https://news.yahoo.co.jp/articles/032b810db4edeffb8db0ef549aefa767b2675049) about tax accountants deliberately overestimating people's inheritance tax liability to protect themselves in the event of an audit.
