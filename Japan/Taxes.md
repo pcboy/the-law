@@ -179,7 +179,7 @@ It's basically used for every small thing you are gonna buy, electronics include
 ## Depreciable assets (減価償却費)
 
 As mentioned just before, you are gonna use "Consumables" (消耗品費) for most of the stuff you are gonna buy as long as it's under 10 mans.  
-For everything higher than that, you have to register it as a depreciable asset. The full cost can't be registered as expense for the current year. It'll be depreciated on many years.  
+For everything higher than that, you may have to register it as a depreciable asset. The full cost can't be registered as expense for the current year. It'll be depreciated over many years.  
 It's fairly easy to do with freee again. Let's say you bought a laptop for 20 mans. Just register the expense as 20 mans with 減価償却費 as account type. Then freee will automatically ask you to enter the number of years this asset should be depreciated.  
 It really depends on the asset.  
 The national tax agency gives a list for different assets:  
@@ -187,7 +187,8 @@ https://www.keisan.nta.go.jp/h30yokuaru/aoiroshinkoku/hitsuyokeihi/genkashokyaku
 
 A personal computer for instance is 4 years.
 
-For some assets, up to 30 mans, you can register as a depreciable asset with 少額償却 (small depreciation). Which let you depreciate the entire amount in the current year (up to 3M/year). If you can, you should do that.
+For some assets, up to 30 mans, you can register as a depreciable asset with 少額償却 (small depreciation). Which let you depreciate the entire amount in the current year (up to 3M/year). If you can, you should do that.  
+This is valid in the case of a "small business", check [中小企業者等の少額減価償却資産の取得価額の損金算入の特例](https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5408.htm) for more info.
 
 For instance if you buy an office chair for 20 mans. You have to register the transaction first in your ledger, with 工具器具備品 as account. Then you add it to your fixed asset register, with 少額償却 as depreciation method.
 
