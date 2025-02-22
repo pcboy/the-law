@@ -269,7 +269,7 @@ If you are working from home you can indeed expense part of your mortgage intere
  Your bank must be sending you regularly a document with the next payment amounts and how much interest is included. Get that paper and then you can simply add an expense in freee, use the account "Interest Expense" (支払利息) and I recommend creating an associated item `住宅ローンの利子の支払い`, Tax rate should be marked as Not applicable (対象外) and the source should be "private funds" (プライベート資金) (unless you are paying this interest directly with your business account which seems wrong).  
  Then go to the [Housework apportionment page / 家事按分一覧](https://secure.freee.co.jp/biz_allocations), and register a new housework apportionment for the account `支払利息` with item name `住宅ローンの利子の支払い`. Set the percentage of your home you are using for business and you are set.
 
- NOTE: If you are doing the 1% home loan tax deduction, I believe you should not be doing this. At the moment getting conflicting answers from accountants.
+NOTE: If you are doing the 1% home loan tax deduction, I believe you should not be doing this. At the moment getting conflicting answers from accountants.
 
 Sources:  
  https://freelance.kantan-aoiro.net/faq/faq04_05.html
@@ -310,10 +310,9 @@ General Sources:
 [Freee nice page about accounts](https://support.freee.co.jp/hc/ja/articles/212496366-%E5%8B%98%E5%AE%9A%E7%A7%91%E7%9B%AE%E3%81%AF%E3%81%A9%E3%81%86%E9%81%B8%E3%81%B9%E3%81%B0%E3%82%88%E3%81%84-)  
 [Taxes payments accounts](https://meetsmore.com/services/tax-accountant/media/53493#i)
 
+## How much can I donate to Furusato Nozei?
 
-## How much can I donate to Furusato Nozei?  
-
-The calculation details are [here](https://old.reddit.com/r/JapanFinance/comments/zgr11k/guide_to_furusato_nozei_donation_limits/).  
+The calculation details are [here](https://old.reddit.com/r/JapanFinance/comments/zgr11k/guide_to_furusato_nozei_donation_limits/).
 
 taxable income x 0.02 / (90% - marginal income tax rate) = furusato max amount
 
@@ -323,12 +322,46 @@ I recommend [Rakuten Furusato](https://event.rakuten.co.jp/furusato) for doing f
 
 Example of calculation for a 10M taxable income:
 
-10000000 * 0.02 / ((90 - 33) / 100.0) = 35 0877 yens limit
+10000000 \* 0.02 / ((90 - 33) / 100.0) = 35 0877 yens limit
+
+## I'm a taxable business, how should I give back the VAT I got during the year?
+
+When it's tax season, you will first fill the simple taxation form on freee, the second blue button here:
+
+![image](./assets/freee_kakutei_screen.png)
+
+Then after you fill the forms, you can then proceed to click on the first blue button now, to do your blue return.  
+You will see this message on the page:
+
+![image](./assets/freee_kakutei_screen2.png)
+
+Click on `振替伝票へ`, and now you have to make a transfer of balance to basically record that part of the money you received as VAT was transferred back to the government.
+See [this](https://support.freee.co.jp/hc/ja/articles/204614754-%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AE%E4%B8%AD%E9%96%93%E7%B4%8D%E4%BB%98-%E6%9C%9F%E6%9C%AB%E3%81%AE%E5%87%A6%E7%90%86%E3%82%92%E8%A1%8C%E3%81%86) for more info.
+
+But basically, when you arrive to that form, it should look like this:
+
+![image](./assets/payment_slip_before.png)
+
+What you want to do is to is transform the 未払金 label into 未払消費税等.  
+Then you add new row on the credit side (貸方), with label 未払消費税 and you set as value the amount that you are required to pay back as VAT (the value you got in that whole VAT form previously).  
+Then you add one last row on the credit side (貸方), with label 雑収入 (misc income), and you set the value so the 税額 value at the bottom becomes 0. i.e, if you have a warning that tells you ![alt text](image.png), that means you should set 592,692 as misc income. This is happening because since you only give back 50% of the VAT you received (if you are a type 5 business, like service industry, engineer etc), you now should declare that other 50% a misc income.
+
+So it looks like this at the end:
+
+![image](./assets/payment_slip_after.png)
+
+If you have to give back more than 480,000 yens in consumption tax, then you will have to pay interim payments during the year.  
+When you pay that interim consumption tax, you have to record it in your books like this:
+
+https://support.freee.co.jp/hc/article_attachments/26816078628377
+
+See [free article](https://support.freee.co.jp/hc/ja/articles/204614754-%E6%B6%88%E8%B2%BB%E7%A8%8E%E3%81%AE%E4%B8%AD%E9%96%93%E7%B4%8D%E4%BB%98-%E6%9C%9F%E6%9C%AB%E3%81%AE%E5%87%A6%E7%90%86%E3%82%92%E8%A1%8C%E3%81%86) for more info.
 
 ## Misc
 
 [Interesting Article](https://news.yahoo.co.jp/articles/032b810db4edeffb8db0ef549aefa767b2675049) about tax accountants deliberately overestimating people's inheritance tax liability to protect themselves in the event of an audit.
 
+[The different type of Taxable business for simple taxation](https://www.yayoi-kk.co.jp/invoice/column/kanikazeiseido/#anc-04)
 
 # Useful links for freelancers
 
