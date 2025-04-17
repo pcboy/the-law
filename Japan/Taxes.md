@@ -366,4 +366,6 @@ See [free article](https://support.freee.co.jp/hc/ja/articles/204614754-%E6%B6%8
 # Useful links for freelancers
 
 If you need a travel insurance:  
+
+https://genki.world/  
 https://safetywing.com/
