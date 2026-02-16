@@ -342,9 +342,8 @@ But basically, when you arrive to that form, it should look like this:
 
 ![image](./assets/payment_slip_before.png)
 
-What you want to do is to is transform the 未払金 label into 未払消費税等.  
-Then you add new row on the credit side (貸方), with label 未払消費税 and you set as value the amount that you are required to pay back as VAT (the value you got in that whole VAT form previously).  
-Then you add one last row on the credit side (貸方), with label 雑収入 (misc income), and you set the value so the 税額 value at the bottom becomes 0. i.e, if you have a warning that tells you ![alt text](image.png), that means you should set 592,692 as misc income. This is happening because since you only give back 50% of the VAT you received (if you are a type 5 business, like service industry, engineer etc), you now should declare that other 50% a misc income.
+What you want to do is to is transform the 未払金 label into 未払消費税 and you set as value the amount that you are required to pay back as VAT (the value you got in that whole VAT form previously, in the resulting PDF it's row 26).  
+Then you add one last row on the credit side (貸方), with label 雑収入 (misc income), and you set the value so the 税額 value at the bottom becomes 0. This is happening because since you only give back 50% of the VAT you received (if you are a type 5 business, like service industry, engineer etc), you now should declare that other 50% a misc income.
 
 So it looks like this at the end:
 
